@@ -218,39 +218,7 @@
       "clan": "",
       "village": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Konohagakure.png",
       "villagename": "Vila da Folha"
-    },
-    {
-      "id": 20,
-      "name": "Gaara do Deserto",
-      "photo": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Gaara.png",
-      "teams": ["Irmaos_da_Areia"],
-      "about": "Na infância, Gaara tentava ser simpático com os outros, apesar de terem medo dele. Percebendo que ninguém amava-o, Gaara usou sua areia para criar o kanji de 'amor' (爱, ai) na testa e consumiu um ódio amargo para todos. Ele via que sua única razão de viver era para aniquilar todos aqueles que ameaçassem a sua existência. O Shukaku dentro dele também foi uma influência para que Gaara se tornasse impiedoso. Seu ódio era tanto, que ele nem via seus irmãos como tal e estava totalmente disposto a matá-los se entrassem no seu caminho.",
-      "mark": "/",
-      "clan": "",
-      "village": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Sunagakure.png",
-      "villagename": "Vila da Areia"
-    },
-    {
-      "id": 21,
-      "name": "Temari",
-      "photo": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Temari.png",
-      "teams": ["Irmaos_da_Areia"],
-      "about": "Temari é geralmente autoritária, se não for fechada, para com aqueles ao seu redor, raramente sem medo de falar o que pensa. Temari é conhecida como a mais cruel de todas as kunoichi, mas ela tem um lado carinhoso e mostra preocupação com os outros. Ela parece se importa com a paz de valor, como ela questionou o raciocínio de começar uma guerra com Konoha em Naruto. Durante o Exame Chūnin, é revelado que Gaara era uma das únicas pessoas que ela tinha medo.",
-      "mark": "/",
-      "clan": "",
-      "village": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Sunagakure.png",
-      "villagename": "Vila da Areia"
-    },
-    {
-      "id": 22,
-      "name": "Kankurou",
-      "photo": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Kankurou.png",
-      "teams": ["Irmaos_da_Areia"],
-      "about": "Kankurō é um titereiro talentoso, indicado quando Sasori, um renomado mestre da Técnica de Marionetes, elogiou as habilidades de Kankurō. Ele tem grandes habilidades em tanto modificar como controlar marionetes, e é fisicamente forte o suficiente para transportar cerca de duas marionetes em suas costas.",
-      "mark": "/",
-      "clan": "",
-      "village": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Sunagakure.png",
-      "villagename": "Vila da Areia"
+    }
     }
   ]
 }
