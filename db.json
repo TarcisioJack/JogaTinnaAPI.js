@@ -240,17 +240,6 @@
       "clan": "",
       "village": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Sunagakure.png",
       "villagename": "Vila da Areia"
-    },
-    {
-      "id": 22,
-      "name": "Kankurou",
-      "photo": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Kankurou.png",
-      "teams": ["Irmaos_da_Areia"],
-      "about": "Ninja",
-      "mark": "/",
-      "clan": "",
-      "village": "https://raw.githubusercontent.com/TarcisioJack/jogatinna/main/src/assets/Sunagakure.png",
-      "villagename": "Vila da Areia"
     }
   ]
 }
